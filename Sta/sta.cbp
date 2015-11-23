@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sta" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/sta" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+					<Add library="sfml-audio" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/sta" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++11" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="sfml-window" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-audio" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+			<Target title="Test">
+				<Option output="sta" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+				</Compiler>
+				<Linker>
+					<Add library="boost_unit_test_framework" />
+					<Add library="sfml-audio" />
+					<Add library="sfml-window" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Attack.cc" />
+		<Unit filename="Attack.h" />
+		<Unit filename="BossEnemy.cc" />
+		<Unit filename="BossEnemy.h" />
+		<Unit filename="BoundingBox.cc" />
+		<Unit filename="BoundingBox.h" />
+		<Unit filename="Const.h" />
+		<Unit filename="EasyEnemy.cc" />
+		<Unit filename="EasyEnemy.h" />
+		<Unit filename="Entity.cc" />
+		<Unit filename="Entity.h" />
+		<Unit filename="EntityEnemy.h" />
+		<Unit filename="EntityEnnemy.cc" />
+		<Unit filename="EntityMoving.cc" />
+		<Unit filename="EntityMoving.h" />
+		<Unit filename="EntityObstacle.cc" />
+		<Unit filename="EntityObstacle.h" />
+		<Unit filename="EntityPlayer.cc" />
+		<Unit filename="EntityPlayer.h" />
+		<Unit filename="Game.cc" />
+		<Unit filename="Game.h" />
+		<Unit filename="GameOverScene.cc" />
+		<Unit filename="GameOverScene.h" />
+		<Unit filename="GameScene.cc" />
+		<Unit filename="GameScene.h" />
+		<Unit filename="HardEnemy.cc" />
+		<Unit filename="HardEnemy.h" />
+		<Unit filename="Level.cc" />
+		<Unit filename="Level.h" />
+		<Unit filename="MediumEnemy.cc" />
+		<Unit filename="MediumEnemy.h" />
+		<Unit filename="Menu.cc" />
+		<Unit filename="Menu.h" />
+		<Unit filename="Render.cc" />
+		<Unit filename="Render.h" />
+		<Unit filename="RenderEffect.cc" />
+		<Unit filename="RenderEffect.h" />
+		<Unit filename="RenderEntity.cc" />
+		<Unit filename="RenderEntity.h" />
+		<Unit filename="RenderMenu.cc" />
+		<Unit filename="RenderMenu.h" />
+		<Unit filename="RenderText.cc" />
+		<Unit filename="RenderText.h" />
+		<Unit filename="Scene.cc" />
+		<Unit filename="Scene.h" />
+		<Unit filename="ScoreHelper.cc" />
+		<Unit filename="ScoreHelper.h" />
+		<Unit filename="SpaceShip.cc" />
+		<Unit filename="SpaceShip.h" />
+		<Unit filename="TitleScene.cc" />
+		<Unit filename="TitleScene.h" />
+		<Unit filename="UpgradeScene.cc" />
+		<Unit filename="UpgradeScene.h" />
+		<Unit filename="View.cc" />
+		<Unit filename="View.h" />
+		<Unit filename="main.cpp">
+			<Option target="Debug" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="test.cc">
+			<Option target="Test" />
+		</Unit>
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<lib_finder disable_auto="1" />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,2153 @@
+# depslib dependency file v1.0
+1428506928 source:/mnt/info-nfs/users/cportron/sta/Sta/sta/main.cpp
+	"Game.h"
+
+1429111993 
+
+1428663588 /mnt/info-nfs/users/cportron/sta/Sta/sta/Scene.h
+	<stdlib.h>
+	<string>
+	<iostream>
+	<set>
+	"Menu.h"
+
+1428595700 /mnt/info-nfs/users/cportron/sta/Sta/sta/Menu.h
+	<stdlib.h>
+	<stdexcept>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+
+1428506642 /mnt/info-nfs/users/cportron/sta/Sta/sta/TitleScene.h
+	<cstdlib>
+	<string>
+	<vector>
+	<sstream>
+	"Game.h"
+	"Scene.h"
+	"GameScene.h"
+
+1429100462 .h"
+
+1428591619 /mnt/info-nfs/users/cportron/sta/Sta/sta/Const.h
+
+1428507533 source:/mnt/info-nfs/users/cportron/sta/Sta/sta/TitleScene.cc
+	"TitleScene.h"
+
+1429112047 e.h"
+
+1428505046 source:/mnt/info-nfs/users/cportron/sta/Sta/sta/Scene.cc
+	"Scene.h"
+
+1428595724 source:/mnt/info-nfs/users/cportron/sta/Sta/sta/Menu.cc
+	"Menu.h"
+
+1428591094 /mnt/info-nfs/users/cportron/sta/Sta/sta/Game.h
+	<chrono>
+	"Const.h"
+	"Scene.h"
+	"TitleScene.h"
+
+1428591496 source:/mnt/info-nfs/users/cportron/sta/Sta/sta/Game.cc
+	"Game.h"
+
+1428595551 source:/mnt/info-nfs/users/cportron/sta/Sta/sta/GameScene.cc
+	"GameScene.h"
+
+1428584825 /mnt/info-nfs/users/cportron/sta/Sta/sta/GameScene.h
+	<string>
+	"Scene.h"
+	"Level.h"
+
+1428665059 source:/mnt/info-nfs/users/cportron/sta/Sta/sta/Level.cc
+	"Level.h"
+
+1428594884 /mnt/info-nfs/users/cportron/sta/Sta/sta/Level.h
+	<stdlib.h>
+	<climits>
+	<bitset>
+	<vector>
+	<iostream>
+	<math.h>
+	<chrono>
+
+1428603758 source:/home/clovis/sta/Sta/sta/Game.cc
+	"Game.h"
+
+1428603758 /home/clovis/sta/Sta/sta/Game.h
+	<chrono>
+	"Const.h"
+	"Scene.h"
+	"TitleScene.h"
+
+1428603758 /home/clovis/sta/Sta/sta/Const.h
+
+1428604257 /home/clovis/sta/Sta/sta/Scene.h
+	<stdlib.h>
+	<string>
+	<iostream>
+	<set>
+	"Menu.h"
+
+1428603758 /home/clovis/sta/Sta/sta/Menu.h
+	<stdlib.h>
+	<stdexcept>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+
+1428603758 /home/clovis/sta/Sta/sta/TitleScene.h
+	<cstdlib>
+	<string>
+	<vector>
+	<sstream>
+	"Game.h"
+	"Scene.h"
+	"GameScene.h"
+
+1428603758 /home/clovis/sta/Sta/sta/GameScene.h
+	<string>
+	"Scene.h"
+	"Level.h"
+
+1428603758 /home/clovis/sta/Sta/sta/Level.h
+	<stdlib.h>
+	<climits>
+	<bitset>
+	<vector>
+	<iostream>
+	<math.h>
+	<chrono>
+
+1428603758 source:/home/clovis/sta/Sta/sta/GameScene.cc
+	"GameScene.h"
+
+1428603758 source:/home/clovis/sta/Sta/sta/main.cpp
+	"Game.h"
+
+1428603758 source:/home/clovis/sta/Sta/sta/Menu.cc
+	"Menu.h"
+
+1428603758 source:/home/clovis/sta/Sta/sta/Scene.cc
+	"Scene.h"
+
+1428603758 source:/home/clovis/sta/Sta/sta/TitleScene.cc
+	"TitleScene.h"
+
+1428604318 source:/home/clovis/sta/Sta/sta/Level.cc
+	"Level.h"
+
+1428664947 source:/mnt/info-nfs/users/cportron/sta/Sta/sta/BoundingBox.cc
+	"BoundingBox.h"
+
+1429028096 ox.h"
+
+1428664673 /mnt/info-nfs/users/cportron/sta/Sta/sta/BoundingBox.h
+
+1428664415 source:/mnt/info-nfs/users/cportron/sta/Sta/sta/Entity.cc
+	"Entity.h"
+
+1428664450 /mnt/info-nfs/users/cportron/sta/Sta/sta/Entity.h
+	<string>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1428664450 em/Vector2.hpp>
+
+1428835885 source:/home/clovis/Documents/sta/Sta/sta/Entity.cc
+	"Entity.h"
+
+1428835887 /home/clovis/Documents/sta/Sta/sta/Entity.h
+	<string>
+	<sstream>
+	"BoundingBox.h"
+
+1428835586 /home/clovis/Documents/sta/Sta/sta/BoundingBox.h
+	<sstream>
+	<string>
+
+1428755558 source:/home/clovis/Documents/sta/Sta/sta/Game.cc
+	"Game.h"
+
+1428755558 /home/clovis/Documents/sta/Sta/sta/Game.h
+	<chrono>
+	"Const.h"
+	"Scene.h"
+	"TitleScene.h"
+
+1428833414 /home/clovis/Documents/sta/Sta/sta/Const.h
+
+1428755558 /home/clovis/Documents/sta/Sta/sta/Scene.h
+	<stdlib.h>
+	<string>
+	<iostream>
+	<set>
+	"Menu.h"
+
+1428755558 /home/clovis/Documents/sta/Sta/sta/Menu.h
+	<stdlib.h>
+	<stdexcept>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+
+1428755558 /home/clovis/Documents/sta/Sta/sta/TitleScene.h
+	<cstdlib>
+	<string>
+	<vector>
+	<sstream>
+	"Game.h"
+	"Scene.h"
+	"GameScene.h"
+
+1428755558 /home/clovis/Documents/sta/Sta/sta/GameScene.h
+	<string>
+	"Scene.h"
+	"Level.h"
+
+1428755558 /home/clovis/Documents/sta/Sta/sta/Level.h
+	<stdlib.h>
+	<climits>
+	<bitset>
+	<vector>
+	<iostream>
+	<math.h>
+	<chrono>
+
+1428755558 source:/home/clovis/Documents/sta/Sta/sta/GameScene.cc
+	"GameScene.h"
+
+1428755558 source:/home/clovis/Documents/sta/Sta/sta/Level.cc
+	"Level.h"
+
+1428755558 source:/home/clovis/Documents/sta/Sta/sta/main.cpp
+	"Game.h"
+
+1428755558 source:/home/clovis/Documents/sta/Sta/sta/Menu.cc
+	"Menu.h"
+
+1428755558 source:/home/clovis/Documents/sta/Sta/sta/Scene.cc
+	"Scene.h"
+
+1428755558 source:/home/clovis/Documents/sta/Sta/sta/TitleScene.cc
+	"TitleScene.h"
+
+1428835699 source:/home/clovis/Documents/sta/Sta/sta/BoundingBox.cc
+	"BoundingBox.h"
+
+1428835304 source:/home/clovis/Documents/sta/Sta/sta/EntityMoving.cc
+	"EntityMoving.h"
+
+1429100462 ing.h"
+
+1428835310 /home/clovis/Documents/sta/Sta/sta/EntityMoving.h
+	"Entity.h"
+	<string>
+	<sstream>
+
+1428762244 source:/home/clovis/Documents/sta/Sta/sta/Attack.cc
+	"Attack.h"
+
+1428761800 /home/clovis/Documents/sta/Sta/sta/Attack.h
+	<string>
+	<sstream>
+	"SpaceShip.h"
+
+1428764839 /home/clovis/Documents/sta/Sta/sta/SpaceShip.h
+	<vector>
+	<string>
+	<sstream>
+	"EntityMoving.h"
+	"Attack.h"
+
+1428763258 source:/home/clovis/Documents/sta/Sta/sta/EntityPlayer.cc
+	"EntityPlayer.h"
+
+1429112364 yer.h"
+
+1428835173 /home/clovis/Documents/sta/Sta/sta/EntityPlayer.h
+	<stdlib.h>
+	<vector>
+	"EntityMoving.h"
+	"Attack.h"
+	<iostream>
+
+1428764407 source:/home/clovis/Documents/sta/Sta/sta/SpaceShip.cc
+	"SpaceShip.h"
+
+1428764737 source:/home/clovis/Documents/sta/Sta/sta/EntityEnnemy.cc
+	"EntityEnemy.h"
+
+1429100462 my.h"
+
+1428835182 /home/clovis/Documents/sta/Sta/sta/EntityEnemy.h
+	<vector>
+	<string>
+	"SpaceShip.h"
+
+1428764549 source:/home/clovis/Documents/sta/Sta/sta/EasyEnemy.cc
+	"EasyEnemy.h"
+
+1428764537 /home/clovis/Documents/sta/Sta/sta/EasyEnemy.h
+	<string>
+	<sstream>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1428764748 source:/home/clovis/Documents/sta/Sta/sta/MediumEnemy.cc
+	"MediumEnemy.h"
+
+1428764585 /home/clovis/Documents/sta/Sta/sta/MediumEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1428833371 source:/home/clovis/Documents/sta/Sta/sta/HardEnemy.cc
+	"HardEnemy.h"
+
+1428833045 /home/clovis/Documents/sta/Sta/sta/HardEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1428835744 source:/home/clovis/Documents/sta/Sta/sta/BossEnemy.cc
+	"BossEnemy.h"
+
+1428835369 /home/clovis/Documents/sta/Sta/sta/BossEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"Const.h"
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1428836519 source:/home/clovis/Documents/sta/Sta/sta/EntityObstacle.cc
+	"EntityObstacle.h"
+
+1429034505 tacle.h"
+
+1428836391 /home/clovis/Documents/sta/Sta/sta/EntityObstacle.h
+	"Entity.h"
+	"Attack.h"
+	<sstream>
+	<string>
+
+1428869915 source:/home/clovis/Documents/sta/Sta/Attack.cc
+	"Attack.h"
+
+1428869915 /home/clovis/Documents/sta/Sta/Attack.h
+	<string>
+	<sstream>
+	"Const.h"
+	"SpaceShip.h"
+
+1428869915 /home/clovis/Documents/sta/Sta/SpaceShip.h
+	<vector>
+	<string>
+	<sstream>
+	"EntityMoving.h"
+	"Attack.h"
+
+1428869915 /home/clovis/Documents/sta/Sta/EntityMoving.h
+	"Entity.h"
+	<string>
+	<sstream>
+
+1428869915 /home/clovis/Documents/sta/Sta/Entity.h
+	<string>
+	<sstream>
+	"BoundingBox.h"
+
+1428869915 /home/clovis/Documents/sta/Sta/BoundingBox.h
+	<sstream>
+	<string>
+
+1428869915 source:/home/clovis/Documents/sta/Sta/BossEnemy.cc
+	"BossEnemy.h"
+
+1428869915 /home/clovis/Documents/sta/Sta/BossEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"Const.h"
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1428875516 /home/clovis/Documents/sta/Sta/Const.h
+	<string>
+
+1428869915 /home/clovis/Documents/sta/Sta/EntityEnemy.h
+	<vector>
+	<string>
+	"SpaceShip.h"
+
+1428882958 /home/clovis/Documents/sta/Sta/EntityPlayer.h
+	<stdlib.h>
+	<vector>
+	"EntityMoving.h"
+	"Attack.h"
+	<iostream>
+
+1428869915 source:/home/clovis/Documents/sta/Sta/BoundingBox.cc
+	"BoundingBox.h"
+
+1428872015 source:/home/clovis/Documents/sta/Sta/EasyEnemy.cc
+	"EasyEnemy.h"
+
+1428869915 /home/clovis/Documents/sta/Sta/EasyEnemy.h
+	<string>
+	<sstream>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1428869915 source:/home/clovis/Documents/sta/Sta/Entity.cc
+	"Entity.h"
+
+1428869915 source:/home/clovis/Documents/sta/Sta/EntityEnnemy.cc
+	"EntityEnemy.h"
+
+1428871498 source:/home/clovis/Documents/sta/Sta/EntityMoving.cc
+	"EntityMoving.h"
+
+1428869915 source:/home/clovis/Documents/sta/Sta/EntityObstacle.cc
+	"EntityObstacle.h"
+
+1428882776 /home/clovis/Documents/sta/Sta/EntityObstacle.h
+	"Entity.h"
+	"Attack.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1428871821 source:/home/clovis/Documents/sta/Sta/EntityPlayer.cc
+	"EntityPlayer.h"
+
+1428869915 source:/home/clovis/Documents/sta/Sta/Game.cc
+	"Game.h"
+
+1428883141 /home/clovis/Documents/sta/Sta/Game.h
+	<chrono>
+	"Const.h"
+	"Scene.h"
+	"TitleScene.h"
+
+1428882287 /home/clovis/Documents/sta/Sta/Scene.h
+	<stdlib.h>
+	<string>
+	<iostream>
+	<set>
+	"Menu.h"
+
+1428869915 /home/clovis/Documents/sta/Sta/Menu.h
+	<stdlib.h>
+	<stdexcept>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+
+1428881312 /home/clovis/Documents/sta/Sta/TitleScene.h
+	<cstdlib>
+	<string>
+	<vector>
+	<sstream>
+	"ScoreHelper.h"
+	"Game.h"
+	"Scene.h"
+	"GameScene.h"
+
+1428883604 /home/clovis/Documents/sta/Sta/GameScene.h
+	<cstdlib>
+	<sstream>
+	<string>
+	<vector>
+	"Const.h"
+	"Scene.h"
+	"Level.h"
+	"TitleScene.h"
+	"GameOverScene.h"
+
+1429104317 cene.h"
+
+1428883806 /home/clovis/Documents/sta/Sta/Level.h
+	<stdlib.h>
+	<climits>
+	<bitset>
+	<vector>
+	<iostream>
+	<math.h>
+	<chrono>
+	"Const.h"
+	"Entity.h"
+	"EntityPlayer.h"
+	"EntityObstacle.h"
+	"EntityEnemy.h"
+	"EasyEnemy.h"
+	"MediumEnemy.h"
+	"HardEnemy.h"
+
+1428874501 source:/home/clovis/Documents/sta/Sta/GameScene.cc
+	"GameScene.h"
+
+1428872035 source:/home/clovis/Documents/sta/Sta/HardEnemy.cc
+	"HardEnemy.h"
+
+1428883780 /home/clovis/Documents/sta/Sta/HardEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1428874140 source:/home/clovis/Documents/sta/Sta/Level.cc
+	"Level.h"
+
+1428869915 source:/home/clovis/Documents/sta/Sta/main.cpp
+	"Game.h"
+
+1428872037 source:/home/clovis/Documents/sta/Sta/MediumEnemy.cc
+	"MediumEnemy.h"
+
+1428869915 /home/clovis/Documents/sta/Sta/MediumEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1428881584 source:/home/clovis/Documents/sta/Sta/Menu.cc
+	"Menu.h"
+
+1428882468 source:/home/clovis/Documents/sta/Sta/Scene.cc
+	"Scene.h"
+
+1428871880 source:/home/clovis/Documents/sta/Sta/SpaceShip.cc
+	"SpaceShip.h"
+
+1428882328 source:/home/clovis/Documents/sta/Sta/TitleScene.cc
+	"TitleScene.h"
+
+1429031714 source:/mnt/info-nfs/users/cportron/sta/Sta/Attack.cc
+	"Attack.h"
+
+1429034880 /mnt/info-nfs/users/cportron/sta/Sta/Attack.h
+	<string>
+	<sstream>
+	"Const.h"
+	"SpaceShip.h"
+
+1429102332 /mnt/info-nfs/users/cportron/sta/Sta/Const.h
+	<string>
+
+1429100462 /mnt/info-nfs/users/cportron/sta/Sta/SpaceShip.h
+	<vector>
+	<string>
+	<sstream>
+	"EntityMoving.h"
+	"Attack.h"
+
+1429037227 /mnt/info-nfs/users/cportron/sta/Sta/EntityMoving.h
+	"Entity.h"
+	<string>
+	<sstream>
+
+1429102490 /mnt/info-nfs/users/cportron/sta/Sta/Entity.h
+	<string>
+	<sstream>
+	"BoundingBox.h"
+
+1429035751 /mnt/info-nfs/users/cportron/sta/Sta/BoundingBox.h
+	<sstream>
+	<string>
+
+1429028096 source:/mnt/info-nfs/users/cportron/sta/Sta/BoundingBox.cc
+	"BoundingBox.h"
+
+1429100462 source:/mnt/info-nfs/users/cportron/sta/Sta/EasyEnemy.cc
+	"EasyEnemy.h"
+
+1429035987 /mnt/info-nfs/users/cportron/sta/Sta/EasyEnemy.h
+	<string>
+	<sstream>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1429036918 /mnt/info-nfs/users/cportron/sta/Sta/EntityEnemy.h
+	<vector>
+	<string>
+	"SpaceShip.h"
+
+1429100462 /mnt/info-nfs/users/cportron/sta/Sta/EntityPlayer.h
+	<stdlib.h>
+	<vector>
+	"EntityMoving.h"
+	"Attack.h"
+	<iostream>
+
+1429102502 source:/mnt/info-nfs/users/cportron/sta/Sta/Entity.cc
+	"Entity.h"
+
+1429030709 source:/mnt/info-nfs/users/cportron/sta/Sta/EntityEnnemy.cc
+	"EntityEnemy.h"
+
+1429100462 source:/mnt/info-nfs/users/cportron/sta/Sta/EntityMoving.cc
+	"EntityMoving.h"
+
+1429100462 source:/mnt/info-nfs/users/cportron/sta/Sta/EntityPlayer.cc
+	"EntityPlayer.h"
+
+1429028096 source:/mnt/info-nfs/users/cportron/sta/Sta/Game.cc
+	"Game.h"
+
+1429100462 /mnt/info-nfs/users/cportron/sta/Sta/Game.h
+	<chrono>
+	"Const.h"
+	"Scene.h"
+	"TitleScene.h"
+
+1429100462 /mnt/info-nfs/users/cportron/sta/Sta/Scene.h
+	<stdlib.h>
+	<string>
+	<iostream>
+	<set>
+	"Menu.h"
+
+1429100462 /mnt/info-nfs/users/cportron/sta/Sta/Menu.h
+	<stdlib.h>
+	<stdexcept>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+
+1429100462 /mnt/info-nfs/users/cportron/sta/Sta/TitleScene.h
+	<cstdlib>
+	<string>
+	<vector>
+	<sstream>
+	"ScoreHelper.h"
+	"Game.h"
+	"Scene.h"
+	"GameScene.h"
+
+1429102113 /mnt/info-nfs/users/cportron/sta/Sta/GameScene.h
+	<cstdlib>
+	<sstream>
+	<string>
+	<vector>
+	"Const.h"
+	"Scene.h"
+	"Level.h"
+	"TitleScene.h"
+	"GameOverScene.h"
+	"UpgradeScene.h"
+
+1429112248 ene.h"
+
+1429102927 /mnt/info-nfs/users/cportron/sta/Sta/Level.h
+	<stdlib.h>
+	<climits>
+	<bitset>
+	<vector>
+	<iostream>
+	<math.h>
+	<chrono>
+	"Const.h"
+	"Entity.h"
+	"EntityPlayer.h"
+	"EntityObstacle.h"
+	"EntityEnemy.h"
+	"EasyEnemy.h"
+	"MediumEnemy.h"
+	"HardEnemy.h"
+
+1429100462 /mnt/info-nfs/users/cportron/sta/Sta/EntityObstacle.h
+	"Entity.h"
+	"Attack.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1429100462 /mnt/info-nfs/users/cportron/sta/Sta/MediumEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1429100462 /mnt/info-nfs/users/cportron/sta/Sta/HardEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1429104273 source:/mnt/info-nfs/users/cportron/sta/Sta/GameScene.cc
+	"GameScene.h"
+
+1429103876 source:/mnt/info-nfs/users/cportron/sta/Sta/Level.cc
+	"Level.h"
+
+1429028097 source:/mnt/info-nfs/users/cportron/sta/Sta/main.cpp
+	"Game.h"
+
+1429100462 source:/mnt/info-nfs/users/cportron/sta/Sta/MediumEnemy.cc
+	"MediumEnemy.h"
+
+1429100462 source:/mnt/info-nfs/users/cportron/sta/Sta/Menu.cc
+	"Menu.h"
+
+1429100462 source:/mnt/info-nfs/users/cportron/sta/Sta/Scene.cc
+	"Scene.h"
+
+1429100462 source:/mnt/info-nfs/users/cportron/sta/Sta/SpaceShip.cc
+	"SpaceShip.h"
+
+1429102339 source:/mnt/info-nfs/users/cportron/sta/Sta/TitleScene.cc
+	"TitleScene.h"
+
+1429028096 source:/mnt/info-nfs/users/cportron/sta/Sta/BossEnemy.cc
+	"BossEnemy.h"
+
+1429035261 /mnt/info-nfs/users/cportron/sta/Sta/BossEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"Const.h"
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1429034505 source:/mnt/info-nfs/users/cportron/sta/Sta/EntityObstacle.cc
+	"EntityObstacle.h"
+
+1429100462 source:/mnt/info-nfs/users/cportron/sta/Sta/HardEnemy.cc
+	"HardEnemy.h"
+
+1428883461 /home/clovis/Documents/sta/Sta/GameOverScene.h
+	<string>
+	<vector>
+	<sstream>
+	"ScoreHelper.h"
+	"Scene.h"
+	"GameScene.h"
+	"TitleScene.h"
+	"EntityPlayer.h"
+
+1428881495 source:/home/clovis/Documents/sta/Sta/GameOverScene.cc
+	"GameOverScene.h"
+
+1428880113 /home/clovis/Documents/sta/Sta/ScoreHelper.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	"Const.h"
+
+1428880203 source:/home/clovis/Documents/sta/Sta/ScoreHelper.cc
+	"ScoreHelper.h"
+
+1429100462 er.h"
+
+1429100462 /mnt/info-nfs/users/cportron/sta/Sta/ScoreHelper.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	"Const.h"
+
+1429100462 /mnt/info-nfs/users/cportron/sta/Sta/GameOverScene.h
+	<string>
+	<vector>
+	<sstream>
+	"ScoreHelper.h"
+	"Scene.h"
+	"GameScene.h"
+	"TitleScene.h"
+	"EntityPlayer.h"
+
+1429104521 /mnt/info-nfs/users/cportron/sta/Sta/UpgradeScene.h
+	<string>
+	"Game.h"
+	"Scene.h"
+	"EntityPlayer.h"
+
+1429104317 source:/mnt/info-nfs/users/cportron/sta/Sta/GameOverScene.cc
+	"GameOverScene.h"
+
+1429100462 source:/mnt/info-nfs/users/cportron/sta/Sta/ScoreHelper.cc
+	"ScoreHelper.h"
+
+1429102351 source:/mnt/info-nfs/users/cportron/sta/Sta/UpgradeScene.cc
+	"UpgradeScene.h"
+
+1429031714 source:v:\sta\sta\attack.cc
+	"Attack.h"
+
+1429111961 v:\sta\sta\attack.h
+	<string>
+	<sstream>
+	<cmath>
+	"Const.h"
+	"SpaceShip.h"
+
+1429102332 v:\sta\sta\const.h
+	<string>
+
+1429100462 v:\sta\sta\spaceship.h
+	<vector>
+	<string>
+	<sstream>
+	"EntityMoving.h"
+	"Attack.h"
+
+1429037227 v:\sta\sta\entitymoving.h
+	"Entity.h"
+	<string>
+	<sstream>
+
+1429102490 v:\sta\sta\entity.h
+	<string>
+	<sstream>
+	"BoundingBox.h"
+
+1429035751 v:\sta\sta\boundingbox.h
+	<sstream>
+	<string>
+
+1429028096 source:v:\sta\sta\bossenemy.cc
+	"BossEnemy.h"
+
+1429035261 v:\sta\sta\bossenemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"Const.h"
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1429036918 v:\sta\sta\entityenemy.h
+	<vector>
+	<string>
+	"SpaceShip.h"
+
+1429113301 v:\sta\sta\entityplayer.h
+	<stdlib.h>
+	<vector>
+	"EntityMoving.h"
+	"Attack.h"
+	<iostream>
+
+1429028096 source:v:\sta\sta\boundingbox.cc
+	"BoundingBox.h"
+
+1429100462 source:v:\sta\sta\easyenemy.cc
+	"EasyEnemy.h"
+
+1429035987 v:\sta\sta\easyenemy.h
+	<string>
+	<sstream>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1429102502 source:v:\sta\sta\entity.cc
+	"Entity.h"
+
+1429030709 source:v:\sta\sta\entityennemy.cc
+	"EntityEnemy.h"
+
+1429100462 source:v:\sta\sta\entitymoving.cc
+	"EntityMoving.h"
+
+1429034505 source:v:\sta\sta\entityobstacle.cc
+	"EntityObstacle.h"
+
+1429100462 v:\sta\sta\entityobstacle.h
+	"Entity.h"
+	"Attack.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1429100462 source:v:\sta\sta\entityplayer.cc
+	"EntityPlayer.h"
+
+1429028096 source:v:\sta\sta\game.cc
+	"Game.h"
+
+1429100462 v:\sta\sta\game.h
+	<chrono>
+	"Const.h"
+	"Scene.h"
+	"TitleScene.h"
+
+1429100462 v:\sta\sta\scene.h
+	<stdlib.h>
+	<string>
+	<iostream>
+	<set>
+	"Menu.h"
+
+1429111993 v:\sta\sta\menu.h
+	<stdlib.h>
+	<stdexcept>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+
+1429100462 v:\sta\sta\titlescene.h
+	<cstdlib>
+	<string>
+	<vector>
+	<sstream>
+	"ScoreHelper.h"
+	"Game.h"
+	"Scene.h"
+	"GameScene.h"
+
+1429112025 v:\sta\sta\scorehelper.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	<stdlib.h>
+	"Const.h"
+
+1429102113 v:\sta\sta\gamescene.h
+	<cstdlib>
+	<sstream>
+	<string>
+	<vector>
+	"Const.h"
+	"Scene.h"
+	"Level.h"
+	"TitleScene.h"
+	"GameOverScene.h"
+	"UpgradeScene.h"
+
+1429102927 v:\sta\sta\level.h
+	<stdlib.h>
+	<climits>
+	<bitset>
+	<vector>
+	<iostream>
+	<math.h>
+	<chrono>
+	"Const.h"
+	"Entity.h"
+	"EntityPlayer.h"
+	"EntityObstacle.h"
+	"EntityEnemy.h"
+	"EasyEnemy.h"
+	"MediumEnemy.h"
+	"HardEnemy.h"
+
+1429100462 v:\sta\sta\mediumenemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1429100462 v:\sta\sta\hardenemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1429100462 v:\sta\sta\gameoverscene.h
+	<string>
+	<vector>
+	<sstream>
+	"ScoreHelper.h"
+	"Scene.h"
+	"GameScene.h"
+	"TitleScene.h"
+	"EntityPlayer.h"
+
+1429112364 v:\sta\sta\upgradescene.h
+	<stdexcept>
+	<string>
+	"Game.h"
+	"Scene.h"
+	"EntityPlayer.h"
+
+1429104317 source:v:\sta\sta\gameoverscene.cc
+	"GameOverScene.h"
+
+1429104273 source:v:\sta\sta\gamescene.cc
+	"GameScene.h"
+
+1429100462 source:v:\sta\sta\hardenemy.cc
+	"HardEnemy.h"
+
+1429103876 source:v:\sta\sta\level.cc
+	"Level.h"
+
+1429028097 source:v:\sta\sta\main.cpp
+	"Game.h"
+
+1429100462 source:v:\sta\sta\mediumenemy.cc
+	"MediumEnemy.h"
+
+1429112009 source:v:\sta\sta\menu.cc
+	"Menu.h"
+
+1429100462 source:v:\sta\sta\scene.cc
+	"Scene.h"
+
+1429100462 source:v:\sta\sta\scorehelper.cc
+	"ScoreHelper.h"
+
+1429100462 source:v:\sta\sta\spaceship.cc
+	"SpaceShip.h"
+
+1429112047 source:v:\sta\sta\titlescene.cc
+	"TitleScene.h"
+
+1429112248 source:v:\sta\sta\upgradescene.cc
+	"UpgradeScene.h"
+
+1432293677 source:/mnt/info-nfs/users/cportron/sta/Sta/Attack.cc
+	"Attack.h"
+
+1432299672 /mnt/info-nfs/users/cportron/sta/Sta/Attack.h
+	<string>
+	<sstream>
+	<cmath>
+	"Const.h"
+	"SpaceShip.h"
+
+1432211583 /mnt/info-nfs/users/cportron/sta/Sta/Const.h
+	<string>
+
+1432292177 /mnt/info-nfs/users/cportron/sta/Sta/SpaceShip.h
+	<vector>
+	<string>
+	<sstream>
+	"EntityMoving.h"
+	"Attack.h"
+
+1432209681 /mnt/info-nfs/users/cportron/sta/Sta/EntityMoving.h
+	"Entity.h"
+	<string>
+	<iostream>
+	<sstream>
+	"Const.h"
+
+1432299848 /mnt/info-nfs/users/cportron/sta/Sta/Entity.h
+	<iostream>
+	<string>
+	<sstream>
+	"BoundingBox.h"
+
+1432299701 /mnt/info-nfs/users/cportron/sta/Sta/BoundingBox.h
+	<sstream>
+	<string>
+	"Const.h"
+
+1432214560 source:/mnt/info-nfs/users/cportron/sta/Sta/BossEnemy.cc
+	"BossEnemy.h"
+
+1432214550 /mnt/info-nfs/users/cportron/sta/Sta/BossEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"Const.h"
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1432214545 /mnt/info-nfs/users/cportron/sta/Sta/EntityEnemy.h
+	<vector>
+	<string>
+	"SpaceShip.h"
+
+1432300107 /mnt/info-nfs/users/cportron/sta/Sta/EntityPlayer.h
+	<stdlib.h>
+	<vector>
+	"EntityMoving.h"
+	"Attack.h"
+	"View.h"
+	"RenderEntity.h"
+	<iostream>
+
+1432214126 source:/mnt/info-nfs/users/cportron/sta/Sta/BoundingBox.cc
+	"BoundingBox.h"
+
+1432293151 source:/mnt/info-nfs/users/cportron/sta/Sta/EasyEnemy.cc
+	"EasyEnemy.h"
+
+1432214565 /mnt/info-nfs/users/cportron/sta/Sta/EasyEnemy.h
+	<string>
+	<sstream>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+	"View.h"
+
+1432292369 source:/mnt/info-nfs/users/cportron/sta/Sta/Entity.cc
+	"Entity.h"
+
+1432293214 source:/mnt/info-nfs/users/cportron/sta/Sta/EntityEnnemy.cc
+	"EntityEnemy.h"
+
+1432301380 source:/mnt/info-nfs/users/cportron/sta/Sta/EntityMoving.cc
+	"EntityMoving.h"
+
+1432205324 source:/mnt/info-nfs/users/cportron/sta/Sta/EntityObstacle.cc
+	"EntityObstacle.h"
+
+1432205327 /mnt/info-nfs/users/cportron/sta/Sta/EntityObstacle.h
+	"Entity.h"
+	"Attack.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1432301428 source:/mnt/info-nfs/users/cportron/sta/Sta/Game.cc
+	"Game.h"
+
+1431959418 /mnt/info-nfs/users/cportron/sta/Sta/Game.h
+	<chrono>
+	"Const.h"
+	"Scene.h"
+	"TitleScene.h"
+	"View.h"
+
+1432300915 /mnt/info-nfs/users/cportron/sta/Sta/Scene.h
+	<stdlib.h>
+	<string>
+	<iostream>
+	<set>
+	"Menu.h"
+	"RenderEffect.h"
+
+1432300346 /mnt/info-nfs/users/cportron/sta/Sta/Menu.h
+	<stdlib.h>
+	<stdexcept>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+
+1431959418 /mnt/info-nfs/users/cportron/sta/Sta/TitleScene.h
+	<cstdlib>
+	<string>
+	<vector>
+	<sstream>
+	<unistd.h>
+	"ScoreHelper.h"
+	"Game.h"
+	"Scene.h"
+	"GameScene.h"
+	"RenderMenu.h"
+
+1432300923 /mnt/info-nfs/users/cportron/sta/Sta/ScoreHelper.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	<stdlib.h>
+	<algorithm>
+	"Const.h"
+
+1432300243 /mnt/info-nfs/users/cportron/sta/Sta/GameScene.h
+	<cstdlib>
+	<sstream>
+	<string>
+	<vector>
+	"Const.h"
+	"Scene.h"
+	"Level.h"
+	"TitleScene.h"
+	"GameOverScene.h"
+	"UpgradeScene.h"
+	"RenderEntity.h"
+	"RenderText.h"
+
+1432300313 /mnt/info-nfs/users/cportron/sta/Sta/Level.h
+	<stdlib.h>
+	<climits>
+	<bitset>
+	<vector>
+	<iostream>
+	<math.h>
+	<chrono>
+	"Const.h"
+	"Entity.h"
+	"EntityPlayer.h"
+	"EntityObstacle.h"
+	"EntityEnemy.h"
+	"EasyEnemy.h"
+	"MediumEnemy.h"
+	"HardEnemy.h"
+	"RenderEntity.h"
+	"View.h"
+
+1432214580 /mnt/info-nfs/users/cportron/sta/Sta/MediumEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1432300259 /mnt/info-nfs/users/cportron/sta/Sta/HardEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1431959418 /mnt/info-nfs/users/cportron/sta/Sta/GameOverScene.h
+	<string>
+	<vector>
+	<sstream>
+	"ScoreHelper.h"
+	"Scene.h"
+	"GameScene.h"
+	"TitleScene.h"
+	"EntityPlayer.h"
+
+1432300972 /mnt/info-nfs/users/cportron/sta/Sta/UpgradeScene.h
+	<stdexcept>
+	<string>
+	"Game.h"
+	"Scene.h"
+	"EntityPlayer.h"
+
+1432216205 source:/mnt/info-nfs/users/cportron/sta/Sta/GameOverScene.cc
+	"GameOverScene.h"
+
+1432298669 source:/mnt/info-nfs/users/cportron/sta/Sta/GameScene.cc
+	"GameScene.h"
+
+1432301453 source:/mnt/info-nfs/users/cportron/sta/Sta/HardEnemy.cc
+	"HardEnemy.h"
+
+1432301678 source:/mnt/info-nfs/users/cportron/sta/Sta/Level.cc
+	"Level.h"
+
+1432211237 source:/mnt/info-nfs/users/cportron/sta/Sta/main.cpp
+	"Game.h"
+
+1432301471 source:/mnt/info-nfs/users/cportron/sta/Sta/MediumEnemy.cc
+	"MediumEnemy.h"
+
+1431959418 source:/mnt/info-nfs/users/cportron/sta/Sta/Menu.cc
+	"Menu.h"
+
+1431959418 source:/mnt/info-nfs/users/cportron/sta/Sta/Scene.cc
+	"Scene.h"
+
+1432301517 source:/mnt/info-nfs/users/cportron/sta/Sta/ScoreHelper.cc
+	"ScoreHelper.h"
+
+1432292221 source:/mnt/info-nfs/users/cportron/sta/Sta/SpaceShip.cc
+	"SpaceShip.h"
+
+1432301552 source:/mnt/info-nfs/users/cportron/sta/Sta/TitleScene.cc
+	"TitleScene.h"
+
+1432299457 source:/mnt/info-nfs/users/cportron/sta/Sta/EntityPlayer.cc
+	"EntityPlayer.h"
+
+1432301596 source:/mnt/info-nfs/users/cportron/sta/Sta/UpgradeScene.cc
+	"UpgradeScene.h"
+
+1429202083 source:/home/damien/sta/Sta/Attack.cc
+	"Attack.h"
+
+1429202083 /home/damien/sta/Sta/Attack.h
+	<string>
+	<sstream>
+	<cmath>
+	"Const.h"
+	"SpaceShip.h"
+
+1429202083 /home/damien/sta/Sta/Const.h
+	<string>
+
+1429202083 /home/damien/sta/Sta/SpaceShip.h
+	<vector>
+	<string>
+	<sstream>
+	"EntityMoving.h"
+	"Attack.h"
+
+1429202083 /home/damien/sta/Sta/EntityMoving.h
+	"Entity.h"
+	<string>
+	<sstream>
+
+1429202083 /home/damien/sta/Sta/Entity.h
+	<string>
+	<sstream>
+	"BoundingBox.h"
+
+1429202083 /home/damien/sta/Sta/BoundingBox.h
+	<sstream>
+	<string>
+
+1429202083 source:/home/damien/sta/Sta/BossEnemy.cc
+	"BossEnemy.h"
+
+1429202083 /home/damien/sta/Sta/BossEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"Const.h"
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1429202083 /home/damien/sta/Sta/EntityEnemy.h
+	<vector>
+	<string>
+	"SpaceShip.h"
+
+1429202083 /home/damien/sta/Sta/EntityPlayer.h
+	<stdlib.h>
+	<vector>
+	"EntityMoving.h"
+	"Attack.h"
+	<iostream>
+
+1429202083 source:/home/damien/sta/Sta/BoundingBox.cc
+	"BoundingBox.h"
+
+1429202083 source:/home/damien/sta/Sta/EasyEnemy.cc
+	"EasyEnemy.h"
+
+1429202083 /home/damien/sta/Sta/EasyEnemy.h
+	<string>
+	<sstream>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1429202083 source:/home/damien/sta/Sta/Entity.cc
+	"Entity.h"
+
+1429202083 source:/home/damien/sta/Sta/EntityEnnemy.cc
+	"EntityEnemy.h"
+
+1429202083 source:/home/damien/sta/Sta/EntityMoving.cc
+	"EntityMoving.h"
+
+1429202083 source:/home/damien/sta/Sta/EntityObstacle.cc
+	"EntityObstacle.h"
+
+1429202083 /home/damien/sta/Sta/EntityObstacle.h
+	"Entity.h"
+	"Attack.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1429202083 source:/home/damien/sta/Sta/EntityPlayer.cc
+	"EntityPlayer.h"
+
+1429202083 source:/home/damien/sta/Sta/Game.cc
+	"Game.h"
+
+1429202083 /home/damien/sta/Sta/Game.h
+	<chrono>
+	"Const.h"
+	"Scene.h"
+	"TitleScene.h"
+
+1429202083 /home/damien/sta/Sta/Scene.h
+	<stdlib.h>
+	<string>
+	<iostream>
+	<set>
+	"Menu.h"
+
+1429203133 /home/damien/sta/Sta/Menu.h
+	<stdlib.h>
+	<stdexcept>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+
+1429202083 /home/damien/sta/Sta/TitleScene.h
+	<cstdlib>
+	<string>
+	<vector>
+	<sstream>
+	"ScoreHelper.h"
+	"Game.h"
+	"Scene.h"
+	"GameScene.h"
+
+1429202083 /home/damien/sta/Sta/ScoreHelper.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	<stdlib.h>
+	"Const.h"
+
+1429202083 /home/damien/sta/Sta/GameScene.h
+	<cstdlib>
+	<sstream>
+	<string>
+	<vector>
+	"Const.h"
+	"Scene.h"
+	"Level.h"
+	"TitleScene.h"
+	"GameOverScene.h"
+	"UpgradeScene.h"
+
+1429202083 /home/damien/sta/Sta/Level.h
+	<stdlib.h>
+	<climits>
+	<bitset>
+	<vector>
+	<iostream>
+	<math.h>
+	<chrono>
+	"Const.h"
+	"Entity.h"
+	"EntityPlayer.h"
+	"EntityObstacle.h"
+	"EntityEnemy.h"
+	"EasyEnemy.h"
+	"MediumEnemy.h"
+	"HardEnemy.h"
+
+1429202083 /home/damien/sta/Sta/MediumEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1429202083 /home/damien/sta/Sta/HardEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1429202083 /home/damien/sta/Sta/GameOverScene.h
+	<string>
+	<vector>
+	<sstream>
+	"ScoreHelper.h"
+	"Scene.h"
+	"GameScene.h"
+	"TitleScene.h"
+	"EntityPlayer.h"
+
+1429202083 /home/damien/sta/Sta/UpgradeScene.h
+	<stdexcept>
+	<string>
+	"Game.h"
+	"Scene.h"
+	"EntityPlayer.h"
+
+1429202083 source:/home/damien/sta/Sta/GameScene.cc
+	"GameScene.h"
+
+1429202083 source:/home/damien/sta/Sta/HardEnemy.cc
+	"HardEnemy.h"
+
+1429202083 source:/home/damien/sta/Sta/Level.cc
+	"Level.h"
+
+1429202083 source:/home/damien/sta/Sta/main.cpp
+	"Game.h"
+
+1429202083 source:/home/damien/sta/Sta/MediumEnemy.cc
+	"MediumEnemy.h"
+
+1429202083 source:/home/damien/sta/Sta/Menu.cc
+	"Menu.h"
+
+1429202083 source:/home/damien/sta/Sta/Scene.cc
+	"Scene.h"
+
+1429202083 source:/home/damien/sta/Sta/SpaceShip.cc
+	"SpaceShip.h"
+
+1429202083 source:/home/damien/sta/Sta/TitleScene.cc
+	"TitleScene.h"
+
+1429202083 source:/home/damien/sta/Sta/GameOverScene.cc
+	"GameOverScene.h"
+
+1429202083 source:/home/damien/sta/Sta/ScoreHelper.cc
+	"ScoreHelper.h"
+
+1429202083 source:/home/damien/sta/Sta/UpgradeScene.cc
+	"UpgradeScene.h"
+
+1429212149 source:/home/damien/sta/Sta/test.cc
+	<boost/test/unit_test.hpp>
+	"Level.h"
+	"EntityPlayer.h"
+
+1432302237 source:/mnt/info-nfs/users/cportron/sta/Sta/test.cc
+	<boost/test/unit_test.hpp>
+	"Level.h"
+	"EntityPlayer.h"
+
+1431710057 source:/home/vagrant/sta/Sta/Attack.cc
+	"Attack.h"
+
+1431710057 /home/vagrant/sta/Sta/Attack.h
+	<string>
+	<sstream>
+	<cmath>
+	"Const.h"
+	"SpaceShip.h"
+
+1431710057 /home/vagrant/sta/Sta/Const.h
+	<string>
+
+1431710057 /home/vagrant/sta/Sta/SpaceShip.h
+	<vector>
+	<string>
+	<sstream>
+	"EntityMoving.h"
+	"Attack.h"
+
+1431710057 /home/vagrant/sta/Sta/EntityMoving.h
+	"Entity.h"
+	<string>
+	<sstream>
+
+1431710057 /home/vagrant/sta/Sta/Entity.h
+	<string>
+	<sstream>
+	"BoundingBox.h"
+
+1431710057 /home/vagrant/sta/Sta/BoundingBox.h
+	<sstream>
+	<string>
+
+1431710057 source:/home/vagrant/sta/Sta/BossEnemy.cc
+	"BossEnemy.h"
+
+1431710057 /home/vagrant/sta/Sta/BossEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"Const.h"
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1431710057 /home/vagrant/sta/Sta/EntityEnemy.h
+	<vector>
+	<string>
+	"SpaceShip.h"
+
+1431710057 /home/vagrant/sta/Sta/EntityPlayer.h
+	<stdlib.h>
+	<vector>
+	"EntityMoving.h"
+	"Attack.h"
+	<iostream>
+
+1431710057 source:/home/vagrant/sta/Sta/BoundingBox.cc
+	"BoundingBox.h"
+
+1431710057 source:/home/vagrant/sta/Sta/EasyEnemy.cc
+	"EasyEnemy.h"
+
+1431710057 /home/vagrant/sta/Sta/EasyEnemy.h
+	<string>
+	<sstream>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1431710057 source:/home/vagrant/sta/Sta/Entity.cc
+	"Entity.h"
+
+1431710057 source:/home/vagrant/sta/Sta/EntityEnnemy.cc
+	"EntityEnemy.h"
+
+1431710057 source:/home/vagrant/sta/Sta/EntityMoving.cc
+	"EntityMoving.h"
+
+1431710057 source:/home/vagrant/sta/Sta/EntityObstacle.cc
+	"EntityObstacle.h"
+
+1431710057 /home/vagrant/sta/Sta/EntityObstacle.h
+	"Entity.h"
+	"Attack.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1431710057 source:/home/vagrant/sta/Sta/EntityPlayer.cc
+	"EntityPlayer.h"
+
+1431790562 source:/home/vagrant/sta/Sta/Game.cc
+	"Game.h"
+
+1431790546 /home/vagrant/sta/Sta/Game.h
+	<chrono>
+	"Const.h"
+	"Scene.h"
+	"TitleScene.h"
+	"RenderManager.h"
+
+1431795119 /home/vagrant/sta/Sta/Scene.h
+	<stdlib.h>
+	<string>
+	<iostream>
+	<set>
+	"Menu.h"
+
+1431793636 /home/vagrant/sta/Sta/Menu.h
+	<stdlib.h>
+	<stdexcept>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+
+1431795213 /home/vagrant/sta/Sta/TitleScene.h
+	<cstdlib>
+	<string>
+	<vector>
+	<sstream>
+	"ScoreHelper.h"
+	"Game.h"
+	"Scene.h"
+	"GameScene.h"
+	"RenderMenu.h"
+
+1431710057 /home/vagrant/sta/Sta/ScoreHelper.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	<stdlib.h>
+	<algorithm>
+	"Const.h"
+
+1431710057 /home/vagrant/sta/Sta/GameScene.h
+	<cstdlib>
+	<sstream>
+	<string>
+	<vector>
+	"Const.h"
+	"Scene.h"
+	"Level.h"
+	"TitleScene.h"
+	"GameOverScene.h"
+	"UpgradeScene.h"
+
+1431710057 /home/vagrant/sta/Sta/Level.h
+	<stdlib.h>
+	<climits>
+	<bitset>
+	<vector>
+	<iostream>
+	<math.h>
+	<chrono>
+	"Const.h"
+	"Entity.h"
+	"EntityPlayer.h"
+	"EntityObstacle.h"
+	"EntityEnemy.h"
+	"EasyEnemy.h"
+	"MediumEnemy.h"
+	"HardEnemy.h"
+
+1431710057 /home/vagrant/sta/Sta/MediumEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1431710057 /home/vagrant/sta/Sta/HardEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1431710057 /home/vagrant/sta/Sta/GameOverScene.h
+	<string>
+	<vector>
+	<sstream>
+	"ScoreHelper.h"
+	"Scene.h"
+	"GameScene.h"
+	"TitleScene.h"
+	"EntityPlayer.h"
+
+1431710057 /home/vagrant/sta/Sta/UpgradeScene.h
+	<stdexcept>
+	<string>
+	"Game.h"
+	"Scene.h"
+	"EntityPlayer.h"
+
+1431795025 /home/vagrant/sta/Sta/RenderManager.h
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"Const.h"
+	"Render.h"
+	"Scene.h"
+	<vector>
+
+1431710762 /home/vagrant/sta/Sta/Render.h
+	<string>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+
+1431710057 source:/home/vagrant/sta/Sta/GameOverScene.cc
+	"GameOverScene.h"
+
+1431710057 source:/home/vagrant/sta/Sta/GameScene.cc
+	"GameScene.h"
+
+1431710057 source:/home/vagrant/sta/Sta/HardEnemy.cc
+	"HardEnemy.h"
+
+1431710057 source:/home/vagrant/sta/Sta/Level.cc
+	"Level.h"
+
+1431710057 source:/home/vagrant/sta/Sta/MediumEnemy.cc
+	"MediumEnemy.h"
+
+1431793620 source:/home/vagrant/sta/Sta/Menu.cc
+	"Menu.h"
+
+1431795046 source:/home/vagrant/sta/Sta/RenderManager.cc
+	"RenderManager.h"
+
+1431795141 source:/home/vagrant/sta/Sta/Scene.cc
+	"Scene.h"
+
+1431710057 source:/home/vagrant/sta/Sta/ScoreHelper.cc
+	"ScoreHelper.h"
+
+1431710057 source:/home/vagrant/sta/Sta/SpaceShip.cc
+	"SpaceShip.h"
+
+1431795251 source:/home/vagrant/sta/Sta/TitleScene.cc
+	"TitleScene.h"
+
+1431710057 source:/home/vagrant/sta/Sta/UpgradeScene.cc
+	"UpgradeScene.h"
+
+1431710057 source:/home/vagrant/sta/Sta/main.cpp
+	"Game.h"
+
+1431710057 source:/home/vagrant/sta/Sta/Render.cc
+	"Render.h"
+
+1431794958 source:/home/vagrant/sta/Sta/RenderMenu.cc
+	"RenderMenu.h"
+
+1431789604 /home/vagrant/sta/Sta/RenderMenu.h
+	<vector>
+	<SFML/System.hpp>
+	"Render.h"
+	"Menu.h"
+
+1431934542 source:/home/clovis/sta/Sta/Attack.cc
+	"Attack.h"
+
+1431934401 /home/clovis/sta/Sta/Attack.h
+	<string>
+	<sstream>
+	<cmath>
+	"Const.h"
+	"SpaceShip.h"
+
+1431873781 /home/clovis/sta/Sta/Const.h
+	<string>
+
+1431873781 /home/clovis/sta/Sta/SpaceShip.h
+	<vector>
+	<string>
+	<sstream>
+	"EntityMoving.h"
+	"Attack.h"
+
+1431879919 /home/clovis/sta/Sta/EntityMoving.h
+	"Entity.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1431935486 /home/clovis/sta/Sta/Entity.h
+	<iostream>
+	<string>
+	<sstream>
+	"BoundingBox.h"
+
+1431873781 /home/clovis/sta/Sta/BoundingBox.h
+	<sstream>
+	<string>
+
+1431873781 source:/home/clovis/sta/Sta/BossEnemy.cc
+	"BossEnemy.h"
+
+1431873781 /home/clovis/sta/Sta/BossEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"Const.h"
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1431873781 /home/clovis/sta/Sta/EntityEnemy.h
+	<vector>
+	<string>
+	"SpaceShip.h"
+
+1431935508 /home/clovis/sta/Sta/EntityPlayer.h
+	<stdlib.h>
+	<vector>
+	"EntityMoving.h"
+	"Attack.h"
+	"View.h"
+	"RenderEntity.h"
+	<iostream>
+
+1431873781 source:/home/clovis/sta/Sta/BoundingBox.cc
+	"BoundingBox.h"
+
+1431895724 source:/home/clovis/sta/Sta/EasyEnemy.cc
+	"EasyEnemy.h"
+
+1431895197 /home/clovis/sta/Sta/EasyEnemy.h
+	<string>
+	<sstream>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+	"View.h"
+
+1431935495 source:/home/clovis/sta/Sta/Entity.cc
+	"Entity.h"
+
+1431873781 source:/home/clovis/sta/Sta/EntityEnnemy.cc
+	"EntityEnemy.h"
+
+1431879970 source:/home/clovis/sta/Sta/EntityMoving.cc
+	"EntityMoving.h"
+
+1431873781 source:/home/clovis/sta/Sta/EntityObstacle.cc
+	"EntityObstacle.h"
+
+1431873781 /home/clovis/sta/Sta/EntityObstacle.h
+	"Entity.h"
+	"Attack.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1431935816 source:/home/clovis/sta/Sta/EntityPlayer.cc
+	"EntityPlayer.h"
+
+1431934885 source:/home/clovis/sta/Sta/Game.cc
+	"Game.h"
+
+1431938377 /home/clovis/sta/Sta/Game.h
+	<chrono>
+	"Const.h"
+	"Scene.h"
+	"TitleScene.h"
+	"View.h"
+
+1431873781 /home/clovis/sta/Sta/Scene.h
+	<stdlib.h>
+	<string>
+	<iostream>
+	<set>
+	"Menu.h"
+
+1431938843 /home/clovis/sta/Sta/Menu.h
+	<stdlib.h>
+	<stdexcept>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+
+1431879588 /home/clovis/sta/Sta/TitleScene.h
+	<cstdlib>
+	<string>
+	<vector>
+	<sstream>
+	<unistd.h>
+	"ScoreHelper.h"
+	"Game.h"
+	"Scene.h"
+	"GameScene.h"
+	"RenderMenu.h"
+
+1431873781 /home/clovis/sta/Sta/ScoreHelper.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	<stdlib.h>
+	<algorithm>
+	"Const.h"
+
+1431939079 /home/clovis/sta/Sta/GameScene.h
+	<cstdlib>
+	<sstream>
+	<string>
+	<vector>
+	"Const.h"
+	"Scene.h"
+	"Level.h"
+	"TitleScene.h"
+	"GameOverScene.h"
+	"UpgradeScene.h"
+	"RenderEntity.h"
+	"RenderText.h"
+
+1431934110 /home/clovis/sta/Sta/Level.h
+	<stdlib.h>
+	<climits>
+	<bitset>
+	<vector>
+	<iostream>
+	<math.h>
+	<chrono>
+	"Const.h"
+	"Entity.h"
+	"EntityPlayer.h"
+	"EntityObstacle.h"
+	"EntityEnemy.h"
+	"EasyEnemy.h"
+	"MediumEnemy.h"
+	"HardEnemy.h"
+	"RenderEntity.h"
+	"View.h"
+
+1431873781 /home/clovis/sta/Sta/MediumEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1431873781 /home/clovis/sta/Sta/HardEnemy.h
+	<string>
+	<sstream>
+	<math.h>
+	"EntityEnemy.h"
+	"EntityPlayer.h"
+
+1431939214 /home/clovis/sta/Sta/GameOverScene.h
+	<string>
+	<vector>
+	<sstream>
+	"ScoreHelper.h"
+	"Scene.h"
+	"GameScene.h"
+	"TitleScene.h"
+	"EntityPlayer.h"
+
+1431873781 /home/clovis/sta/Sta/UpgradeScene.h
+	<stdexcept>
+	<string>
+	"Game.h"
+	"Scene.h"
+	"EntityPlayer.h"
+
+1431874917 /home/clovis/sta/Sta/RenderMenu.h
+	<vector>
+	<SFML/System.hpp>
+	"Render.h"
+	"Menu.h"
+
+1431939915 /home/clovis/sta/Sta/Render.h
+	<iostream>
+	<string>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+
+1431891422 /home/clovis/sta/Sta/RenderManager.h
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"Const.h"
+	"Render.h"
+	"RenderMenu.h"
+	"RenderEntity.h"
+	<vector>
+
+1431940433 source:/home/clovis/sta/Sta/GameOverScene.cc
+	"GameOverScene.h"
+
+1431939363 source:/home/clovis/sta/Sta/GameScene.cc
+	"GameScene.h"
+
+1431895741 source:/home/clovis/sta/Sta/HardEnemy.cc
+	"HardEnemy.h"
+
+1431935717 source:/home/clovis/sta/Sta/Level.cc
+	"Level.h"
+
+1431895752 source:/home/clovis/sta/Sta/MediumEnemy.cc
+	"MediumEnemy.h"
+
+1431938741 source:/home/clovis/sta/Sta/Menu.cc
+	"Menu.h"
+
+1431939921 source:/home/clovis/sta/Sta/Render.cc
+	"Render.h"
+
+1431879796 source:/home/clovis/sta/Sta/RenderManager.cc
+	"RenderManager.h"
+
+1431939877 source:/home/clovis/sta/Sta/RenderMenu.cc
+	"RenderMenu.h"
+
+1431879556 source:/home/clovis/sta/Sta/Scene.cc
+	"Scene.h"
+
+1431873781 source:/home/clovis/sta/Sta/ScoreHelper.cc
+	"ScoreHelper.h"
+
+1431880039 source:/home/clovis/sta/Sta/SpaceShip.cc
+	"SpaceShip.h"
+
+1431873781 source:/home/clovis/sta/Sta/UpgradeScene.cc
+	"UpgradeScene.h"
+
+1431891781 source:/home/clovis/sta/Sta/main.cpp
+	"Game.h"
+
+1431938275 source:/home/clovis/sta/Sta/TitleScene.cc
+	"TitleScene.h"
+
+1431895803 /home/clovis/sta/Sta/RenderEntity.h
+	<iostream>
+	<SFML/Window.hpp>
+	"Render.h"
+	"Entity.h"
+	"View.h"
+	"RenderEffect.h"
+
+1431897532 source:/home/clovis/sta/Sta/RenderEntity.cc
+	"RenderEntity.h"
+
+1431938497 /home/clovis/sta/Sta/View.h
+	<string>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"Const.h"
+	"Render.h"
+	"RenderMenu.h"
+	"RenderText.h"
+	"RenderEntity.h"
+	<vector>
+
+1431939560 source:/home/clovis/sta/Sta/View.cc
+	"View.h"
+
+1431932822 source:/home/clovis/sta/Sta/RenderEffect.cc
+	"RenderEffect.h"
+
+1431897165 /home/clovis/sta/Sta/RenderEffect.h
+	<iostream>
+	<string>
+	<SFML/Window.hpp>
+	"Render.h"
+
+1431931984 /home/clovis/sta/Sta/RenderText.h
+	<string>
+	<iostream>
+	<SFML/Window.hpp>
+	"Render.h"
+
+1431931991 source:/home/clovis/sta/Sta/RenderText.cc
+	"RenderText.h"
+
+1432301306 /mnt/info-nfs/users/cportron/sta/Sta/View.h
+	<string>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Audio.hpp>
+	"Const.h"
+	"Render.h"
+	"RenderMenu.h"
+	"RenderText.h"
+	"RenderEntity.h"
+	<vector>
+
+1432300486 /mnt/info-nfs/users/cportron/sta/Sta/Render.h
+	<iostream>
+	<string>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+
+1432300729 /mnt/info-nfs/users/cportron/sta/Sta/RenderMenu.h
+	<vector>
+	<SFML/System.hpp>
+	"Render.h"
+	"Menu.h"
+
+1432300898 /mnt/info-nfs/users/cportron/sta/Sta/RenderText.h
+	<string>
+	<iostream>
+	<SFML/Window.hpp>
+	"Render.h"
+
+1432300668 /mnt/info-nfs/users/cportron/sta/Sta/RenderEntity.h
+	<iostream>
+	<SFML/Window.hpp>
+	"Render.h"
+	"Entity.h"
+	"RenderEffect.h"
+
+1432300636 /mnt/info-nfs/users/cportron/sta/Sta/RenderEffect.h
+	<iostream>
+	<string>
+	<SFML/Window.hpp>
+	"Render.h"
+	"View.h"
+
+1432216333 source:/mnt/info-nfs/users/cportron/sta/Sta/Render.cc
+	"Render.h"
+
+1432301486 source:/mnt/info-nfs/users/cportron/sta/Sta/RenderEffect.cc
+	"RenderEffect.h"
+
+1432291234 source:/mnt/info-nfs/users/cportron/sta/Sta/RenderEntity.cc
+	"RenderEntity.h"
+
+1432290157 source:/mnt/info-nfs/users/cportron/sta/Sta/RenderMenu.cc
+	"RenderMenu.h"
+
+1432210538 source:/mnt/info-nfs/users/cportron/sta/Sta/RenderText.cc
+	"RenderText.h"
+
+1432216141 source:/mnt/info-nfs/users/cportron/sta/Sta/View.cc
+	"View.h"
+
